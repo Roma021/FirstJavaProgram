@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871bfac7-a9b5-4ddb-8bc2-008fc349bc74" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/EscapeSequance.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SequenceTwo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="GettingStoring.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GettingStoring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -65,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EscapeSequance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EscapeSequance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EscapeSequance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="335">
               <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SequenceTwo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SequenceTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -103,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/GettingStoring.java" />
         <option value="$PROJECT_DIR$/src/Completion.java" />
         <option value="$PROJECT_DIR$/src/EscapeSequance.java" />
+        <option value="$PROJECT_DIR$/src/SequenceTwo.java" />
       </list>
     </option>
   </component>
@@ -176,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EscapeSequance">
+  <component name="RunManager" selected="Application.SequenceTwo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -226,9 +237,9 @@
       <module name="MyFirstJavaProgram" />
       <envs />
     </configuration>
-    <configuration name="MathTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SequenceTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MathTwo" />
+      <option name="MAIN_CLASS_NAME" value="SequenceTwo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,19 +340,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MathTwo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GettingStoring" />
-      <item index="2" class="java.lang.String" itemvalue="Application.nameVariable" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Completion" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EscapeSequance" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GettingStoring" />
+      <item index="1" class="java.lang.String" itemvalue="Application.nameVariable" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Completion" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EscapeSequance" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SequenceTwo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EscapeSequance" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Completion" />
-        <item index="2" class="java.lang.String" itemvalue="Application.nameVariable" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GettingStoring" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MathTwo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SequenceTwo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EscapeSequance" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Completion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.nameVariable" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GettingStoring" />
       </list>
     </recent_temporary>
   </component>
@@ -358,15 +369,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560349905711</updated>
-      <workItem from="1560349910546" duration="12432000" />
+      <workItem from="1560349910546" duration="14133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12432000" />
+    <option name="totallyTimeSpent" value="14133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1004" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -381,7 +393,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26165253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26165253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -442,14 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GettingStoring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nameVariable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -468,8 +472,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EscapeSequance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="335">
           <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GettingStoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SequenceTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
           <folding />
         </state>
       </provider>
